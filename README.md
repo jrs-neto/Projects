@@ -4,9 +4,17 @@ Este repositório contém os projetos que estou desenvolvendo ao longo da minha 
 
 ## Projetos
 
-1. Calculadora de IMC
+1. [Animais Fantásticos](https://jrs-neto.github.io/animais-fantasticos/)
+
+- É um Website desenvolvido durante o curso de JavaScritp ES6+. Este projeto mostra uma variedade de habilidades aprendidas ao criar vários efeitos do zero usando JavaScript.
+
+2. [Calculadora de IMC](https://projects-ruby-theta.vercel.app/)
 
 - Projeto desenvolvido com HTML, CSS e JavaScript para calcular o Índice de Massa Corporal (IMC) e fornecer feedback visual e textual baseado nos resultados.
+
+3. [Landing Page](https://jrs-neto.netlify.app/#intro)
+
+- Página de destino criada para demonstrar técnicas de layout e estilização.
 
 (Novos projetos serão adicionados em breve!)
 
