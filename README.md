@@ -23,3 +23,9 @@ Este repositório contém os projetos que estou desenvolvendo ao longo da minha 
 ## Objetivo
 
 Este repositório tem como objetivo documentar meu progresso e fornecer exemplos práticos de código. Cada projeto é uma oportunidade de explorar novas ferramentas e conceitos, aplicando-os em diferentes cenários. Conforme eu avanço, pretendo expandir o repositório com novos desafios e soluções criativas.
+
+## Contato
+
+Se quiser entrar em contato para discutir algum projeto ou colaborar, fique à vontade para me encontrar em:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jrd.santosneto@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrodrigues-neto/)
