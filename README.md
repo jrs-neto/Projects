@@ -1,32 +1,25 @@
-# Calculadora de IMC
+# Meu Portfólio de Projetos
 
-Este projeto é uma calculadora de IMC (Índice de Massa Corporal) desenvolvida usando HTML, CSS e JavaScript. Ele permite que os usuários insiram seu peso e altura para calcular e visualizar o IMC, com uma mensagem descritiva correspondente à sua faixa de peso.
+Este repositório contém os projetos que estou desenvolvendo ao longo da minha jornada de aprendizado e prática. Aqui, você encontrará diferentes aplicações e exemplos que abordam várias tecnologias, frameworks e conceitos de programação.
 
-## Funcionalidades
+## Projetos
 
-- Entrada de peso (kg) e altura (m): o usuário pode inserir seu peso e altura para calcular o IMC.
-- Cálculo automático do IMC: o cálculo é realizado quando o usuário submete o formulário.
-- Mensagens informativas: mensagens de alerta são exibidas com base no valor do IMC, indicando se o usuário está abaixo do peso, no peso ideal, ou com sobrepeso/obesidade.
-- Link para mais informações: um link externo para um artigo sobre o IMC é fornecido para os usuários que desejam se informar mais sobre o tema.
-- Interface responsiva: o layout se adapta a diferentes tamanhos de tela, escondendo a imagem de ilustração em dispositivos menores.
+1. Calculadora de IMC
 
-## Tecnologias utilizadas
+- Projeto desenvolvido com HTML, CSS e JavaScript para calcular o Índice de Massa Corporal (IMC) e fornecer feedback visual e textual baseado nos resultados.
 
-- HTML5: estruturação da página.
-- CSS3: estilização da interface e design responsivo.
-- JavaScript: lógica de cálculo do IMC e manipulação do DOM.
-- Font Awesome: ícones usados para melhorar a experiência visual do formulário.
+(Novos projetos serão adicionados em breve!)
 
-## Exemplo de uso
+## Tecnologias
 
-1. Insira seu peso em kg.
-2. Insira sua altura em metros (com até duas casas decimais).
-3. Clique no botão Calcular.
-4. O resultado do IMC será exibido, juntamente com uma mensagem sobre a sua categoria de peso.
-5. Se desejar mais informações sobre o IMC, clique no link "Mais informações sobre o IMC" para ser redirecionado a uma página externa.
+- HTML5
+- CSS3
+- JavaScript
+- React
+- AWS
+- Git e GitHub
+  E muito mais!
 
-## Melhorias futuras
+## Objetivo
 
-- Validações mais robustas nos campos de peso e altura.
-- Modo claro/escuro para a interface.
-- Opção de selecionar diferentes unidades de medida (como libras e pés).
+Este repositório tem como objetivo documentar meu progresso e fornecer exemplos práticos de código. Cada projeto é uma oportunidade de explorar novas ferramentas e conceitos, aplicando-os em diferentes cenários. Conforme eu avanço, pretendo expandir o repositório com novos desafios e soluções criativas.
